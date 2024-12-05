@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-<img align="right" alt="coding" width="250" src="https://www.echelonedge.com/wp-content/themes/echelon/assets/img/echelon-data-quipo.gif">
+<img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
   I'm Shubham Tiwari<br>
 🌱 I’m currently learning Data Science and expanding my Machine Learning and Data Analytics knowledge.
 
@@ -28,7 +28,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shubhamTiwari04378&theme=date_night&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamTiwari04378&theme=date_night&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
